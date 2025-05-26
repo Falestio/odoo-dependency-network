@@ -12,7 +12,8 @@ A visualization tool for Odoo module dependencies to help with migration plannin
 
 3. enter the path to your Odoo addons folder.
 4. The script will generate a `module_dependencies.json` file containing dependency data for all modules.
-5. Open `index.html` in your browser.
+5. Or you can use provided `module_dependencies.json` file
+6. Open `index.html` in your browser.
 
 
 ## Module Highlighting
