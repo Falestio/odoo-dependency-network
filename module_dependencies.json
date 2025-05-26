@@ -1,0 +1,646 @@
+{
+  "account": [
+    "base_setup",
+    "product",
+    "analytic",
+    "report",
+    "web_planner"
+  ],
+  "account_balance_line": [
+    "account"
+  ],
+  "account_budget_advance": [
+    "base",
+    "account_budget"
+  ],
+  "account_check_deposit": [
+    "account_accountant"
+  ],
+  "account_financial_report_horizontal": [
+    "account"
+  ],
+  "account_financial_report_qweb": [
+    "account",
+    "date_range",
+    "report_xlsx",
+    "report"
+  ],
+  "account_invoice_due_mac5": [
+    "account"
+  ],
+  "account_invoice_line_pricelist": [
+    "account",
+    "product",
+    "sale"
+  ],
+  "account_invoice_line_report": [
+    "base",
+    "account"
+  ],
+  "account_invoice_pricelist": [
+    "account"
+  ],
+  "account_invoice_pricelist_sale": [
+    "account_invoice_pricelist",
+    "sale"
+  ],
+  "account_invoice_triple_discount": [
+    "account"
+  ],
+  "account_miftah": [
+    "base_setup",
+    "product",
+    "analytic",
+    "report",
+    "web_planner"
+  ],
+  "account_parent": [
+    "account"
+  ],
+  "account_partner_ledger_filter": [
+    "account"
+  ],
+  "app_dynamic_list": [
+    "web"
+  ],
+  "app_odoo_customize": [
+    "web",
+    "mail"
+  ],
+  "auditlog": [
+    "base"
+  ],
+  "audit_dan_penagihan": [
+    "base",
+    "account",
+    "tj_rutesale",
+    "account_asset"
+  ],
+  "auto_backup": [
+    "base"
+  ],
+  "average_penjualan": [
+    "base",
+    "renold_handoko_sale_order"
+  ],
+  "backend_theme_green": [
+    "web"
+  ],
+  "barcode_scanning_sale_purchase": [
+    "purchase",
+    "sale"
+  ],
+  "base_groupby_extra": [],
+  "base_synchro": [
+    "base"
+  ],
+  "bom_cost_price_update": [
+    "mrp"
+  ],
+  "bt_asset_management": [
+    "base",
+    "mail"
+  ],
+  "bt_invoice_summary": [
+    "account"
+  ],
+  "chart_of_account_hierarchy": [
+    "account"
+  ],
+  "contacts": [
+    "base"
+  ],
+  "cpm_request_payment": [
+    "base",
+    "account",
+    "sale",
+    "product",
+    "web_xls",
+    "cpm_form_purchase",
+    "fleet",
+    "tj_stock_picking_invoice",
+    "tj_vit_efaktur",
+    "tifatex_tj_accounting_custom"
+  ],
+  "customer_activity_statement": [
+    "account"
+  ],
+  "customer_invoice_margin": [
+    "account",
+    "sale_margin"
+  ],
+  "customer_outstanding_statement": [
+    "account"
+  ],
+  "date_range": [
+    "web"
+  ],
+  "dev_picking_cancel": [
+    "stock",
+    "sale_stock",
+    "sale",
+    "purchase",
+    "account_cancel"
+  ],
+  "dvit_account_multi_report": [
+    "account_financial_report_qweb"
+  ],
+  "dynamic_pdf_reports": [
+    "hr",
+    "report"
+  ],
+  "icz_bank_statement_access": [
+    "base",
+    "account"
+  ],
+  "inventoryrep_stock_report_10": [
+    "stock"
+  ],
+  "inventory_barcode_scanning": [
+    "stock"
+  ],
+  "invoice_stock_move": [
+    "base",
+    "account",
+    "stock"
+  ],
+  "l10n_id": [
+    "base",
+    "account",
+    "base_iban",
+    "base_vat"
+  ],
+  "mass_accounting_cancel": [
+    "account",
+    "account_accountant"
+  ],
+  "max_web_freeze_list_view_header": [
+    "web",
+    "base"
+  ],
+  "max_web_pdf_preview": [
+    "web"
+  ],
+  "ms_follow_up_ar": [
+    "base",
+    "renold_handoko_sale_order"
+  ],
+  "ms_generic_excel_report": [
+    "base",
+    "account",
+    "stock",
+    "sales_team",
+    "purchase",
+    "report"
+  ],
+  "ms_query": [
+    "base",
+    "mail"
+  ],
+  "ms_stock_card": [
+    "stock"
+  ],
+  "ohrms_loan": [
+    "base",
+    "hr_payroll",
+    "hr",
+    "account",
+    "web",
+    "report"
+  ],
+  "ohrms_loan_accounting": [
+    "base",
+    "hr_payroll",
+    "hr",
+    "account",
+    "ohrms_loan"
+  ],
+  "ohrms_loan_old": [
+    "base",
+    "hr_payroll",
+    "hr",
+    "account",
+    "web",
+    "report"
+  ],
+  "omni_behalf_sale_order": [
+    "base",
+    "sale",
+    "account"
+  ],
+  "omni_nama_bank_giro": [
+    "base",
+    "vit_giro"
+  ],
+  "omni_so_sign": [
+    "base",
+    "sale"
+  ],
+  "payment_receipt_invoice": [
+    "base",
+    "account"
+  ],
+  "pos_debt_notebook": [
+    "point_of_sale",
+    "base_groupby_extra",
+    "product"
+  ],
+  "pos_longpolling": [
+    "bus",
+    "point_of_sale"
+  ],
+  "print_journal_items": [
+    "account"
+  ],
+  "product_sequence": [
+    "product"
+  ],
+  "purchase_discount": [
+    "purchase"
+  ],
+  "purchase_request": [
+    "purchase",
+    "product"
+  ],
+  "purchase_request_to_rfq": [
+    "purchase_request",
+    "purchase"
+  ],
+  "purchase_stock_picking_return_invoicing": [
+    "purchase"
+  ],
+  "purchase_triple_discount": [
+    "purchase_discount",
+    "account_invoice_triple_discount"
+  ],
+  "renold_handoko_sale_order": [
+    "base",
+    "hr",
+    "resource",
+    "sale",
+    "sales_team",
+    "ms_generic_excel_report"
+  ],
+  "renold_handoko_sale_order_v2": [
+    "base",
+    "hr",
+    "resource",
+    "sale",
+    "sales_team",
+    "ms_generic_excel_report"
+  ],
+  "report_laporan_produksi": [
+    "base",
+    "stock"
+  ],
+  "report_rute_sale": [
+    "base",
+    "renold_handoko_sale_order"
+  ],
+  "report_xlsx": [
+    "base"
+  ],
+  "restful": [
+    "web"
+  ],
+  "restrict_product_and_partner": [
+    "base",
+    "product",
+    "sale",
+    "purchase",
+    "sales_team"
+  ],
+  "restrict_qty_done": [
+    "stock"
+  ],
+  "rest_api": [
+    "base",
+    "tj_rutesale"
+  ],
+  "sales_customer_history": [
+    "sale"
+  ],
+  "sales_order_history": [
+    "sale"
+  ],
+  "sale_discount_total": [
+    "sale",
+    "account"
+  ],
+  "sale_mkt": [
+    "sale",
+    "sierra_base",
+    "sierra_sale"
+  ],
+  "sale_purchase_previous_product_cost": [
+    "sale",
+    "purchase"
+  ],
+  "sale_report_profit_margin": [
+    "sale",
+    "sale_margin"
+  ],
+  "sale_triple_discount": [
+    "sale",
+    "account_invoice_triple_discount"
+  ],
+  "search_by_range": [
+    "web"
+  ],
+  "set_sequence_number": [
+    "purchase",
+    "sale_stock"
+  ],
+  "sierra_account": [
+    "account"
+  ],
+  "sierra_base": [
+    "base",
+    "hr",
+    "purchase",
+    "stock_account"
+  ],
+  "sierra_sale": [
+    "sale",
+    "sales_team",
+    "hr",
+    "sierra_base",
+    "sierra_account"
+  ],
+  "sierra_stock": [
+    "stock"
+  ],
+  "single_invoice_from_multiple_picking": [
+    "base",
+    "stock"
+  ],
+  "sql_export": [
+    "sql_request_abstract"
+  ],
+  "sql_request_abstract": [
+    "base"
+  ],
+  "stock_disable_force_availability_button": [
+    "stock"
+  ],
+  "stock_inventory_chatter": [
+    "stock"
+  ],
+  "stock_inventory_revaluation": [
+    "stock_account",
+    "product"
+  ],
+  "stock_mutation_all_location": [
+    "stock"
+  ],
+  "stock_picking_invoice_link": [
+    "sale_stock"
+  ],
+  "stock_requisition": [
+    "stock"
+  ],
+  "stock_summary_new_benang_2": [
+    "tj_stock",
+    "tj_makloon_custom",
+    "stock",
+    "base",
+    "mail"
+  ],
+  "stock_summary_rak_variasi": [
+    "tj_stock",
+    "tj_makloon_custom",
+    "stock",
+    "base",
+    "mail"
+  ],
+  "stock_transport_management": [
+    "base",
+    "sale",
+    "stock",
+    "report_xlsx"
+  ],
+  "tj_accounting_custom": [
+    "base",
+    "sale",
+    "stock",
+    "barcodes",
+    "purchase"
+  ],
+  "tj_bankcash": [
+    "base_setup",
+    "product",
+    "analytic",
+    "report",
+    "web_planner",
+    "account",
+    "pos_debt_notebook"
+  ],
+  "tj_bankcash_lama": [
+    "base_setup",
+    "product",
+    "analytic",
+    "report",
+    "web_planner"
+  ],
+  "tj_bankcash_old": [
+    "base_setup",
+    "product",
+    "analytic",
+    "report",
+    "web_planner",
+    "account",
+    "pos_debt_notebook"
+  ],
+  "tj_base": [
+    "base",
+    "mrp",
+    "fleet",
+    "stock"
+  ],
+  "tj_bukti_pinjaman": [
+    "base",
+    "hr_payroll",
+    "hr",
+    "account"
+  ],
+  "tj_customer_category": [
+    "base",
+    "sale",
+    "sale_stock"
+  ],
+  "tj_date": [
+    "base",
+    "sale",
+    "sale_stock"
+  ],
+  "tj_delivery_order": [
+    "base",
+    "account",
+    "sale",
+    "product",
+    "fleet"
+  ],
+  "tj_id_account_report": [
+    "account"
+  ],
+  "tj_do_bismilah": [
+    "base",
+    "sale",
+    "stock",
+    "barcodes",
+    "product",
+    "analytic",
+    "report",
+    "web_planner"
+  ],
+  "tj_gsp": [
+    "base",
+    "sale",
+    "stock",
+    "barcodes",
+    "purchase_request",
+    "purchase",
+    "product",
+    "procurement",
+    "web_planner"
+  ],
+  "tj_image_preview": [
+    "web"
+  ],
+  "tj_kontrabon": [
+    "base",
+    "account",
+    "sale",
+    "product",
+    "fleet"
+  ],
+  "tj_mrp": [
+    "base",
+    "sale",
+    "stock",
+    "barcodes"
+  ],
+  "tj_partner_credit_limit": [
+    "base",
+    "account",
+    "sale",
+    "sierra_sale",
+    "vit_giro"
+  ],
+  "tj_partner_credit_limit_old": [
+    "base",
+    "account",
+    "sale",
+    "sierra_sale",
+    "vit_giro"
+  ],
+  "tj_print_invoice": [
+    "base",
+    "account"
+  ],
+  "tj_print_po": [],
+  "tj_print_po_old": [],
+  "tj_print_qr": [
+    "base"
+  ],
+  "tj_progresbar": [
+    "base",
+    "sale",
+    "stock",
+    "barcodes",
+    "purchase"
+  ],
+  "tj_rutesale": [
+    "base",
+    "sale",
+    "tj_kontrabon"
+  ],
+  "tj_scaner": [
+    "base",
+    "sale",
+    "stock",
+    "barcodes"
+  ],
+  "tj_stock_picking_invoice": [
+    "base",
+    "account",
+    "stock",
+    "product"
+  ],
+  "tj_stock_picking_invoice_baru": [
+    "base",
+    "account",
+    "tifatex_base",
+    "tj_makloon_custom"
+  ],
+  "tj_web_sheet_full_width": [
+    "web"
+  ],
+  "tko_sale_invoice_fixed_discount": [
+    "sale",
+    "account"
+  ],
+  "vit_efaktur": [
+    "account",
+    "stock",
+    "vit_kelurahan"
+  ],
+  "vit_giro": [
+    "account_voucher",
+    "tj_rutesale"
+  ],
+  "vit_kelurahan": [
+    "base"
+  ],
+  "vit_mrp_cost": [
+    "mrp",
+    "stock",
+    "sale",
+    "product"
+  ],
+  "vit_so_sign": [
+    "base",
+    "sale"
+  ],
+  "vit_stock_card_pro": [
+    "stock",
+    "mrp"
+  ],
+  "vit_stock_card_pro_baru": [
+    "stock",
+    "product_expiry",
+    "mrp",
+    "vit_common",
+    "vit_stock"
+  ],
+  "warehouse_stock_restrictions": [
+    "base",
+    "stock"
+  ],
+  "website_transparent_header": [
+    "website"
+  ],
+  "web_export_view": [
+    "web"
+  ],
+  "web_groupby_expand": [
+    "web"
+  ],
+  "web_pdf_preview": [
+    "web"
+  ],
+  "web_tree_dynamic_colored_field": [
+    "web"
+  ],
+  "web_tree_image": [
+    "web"
+  ],
+  "wibicon_jurnal_balik": [
+    "base",
+    "account"
+  ],
+  "wibicon_jurnal_balik_old": [
+    "base",
+    "account"
+  ]
+}
