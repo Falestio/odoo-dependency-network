@@ -378,7 +378,8 @@
     "sql_request_abstract"
   ],
   "sql_request_abstract": [
-    "base"
+    "base",
+    "sql_export"
   ],
   "stock_disable_force_availability_button": [
     "stock"
